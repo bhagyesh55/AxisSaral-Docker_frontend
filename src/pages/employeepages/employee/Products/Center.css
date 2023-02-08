@@ -1,0 +1,28 @@
+.center{
+    font-size: 30px;
+    background-image: white; 
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    color: rgb(8, 8, 8);
+    margin-left: 15.8%;
+    padding: 2%;
+    margin-top: 5%;
+    /* width:85%; */
+  }
+  .thumb {
+    width: 5%;
+    height: 50px;
+  }
+  
+.linkColor{
+  color: aqua;
+}
+.heading{
+  color: #97144d;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 3%;
+  /* padding: 15px 15px 0px 0px; */
+
+}

@@ -1,0 +1,118 @@
+.all{
+    margin-left: 16%;
+    margin-top: 7%; 
+    /* width: 70%!important; */
+    /* overflow-x: hidden; */
+    /* margin-right: 35%; */
+    /* margin-left: 30%;
+    margin-right: 15%;
+    margin-top: 7%;  */
+    display: flex;
+    /* overflow: auto; */
+}
+.heading1{
+    color: #97144d;
+    font-size: 25px;
+    font-weight: 700;
+    /* margin-bottom: 3%; */
+    margin-left: 27%;
+    /* padding: 15px 15px 0px 0px; */
+
+}
+.heading{
+    color: #97144d;
+    font-size: 25px;
+    font-weight: 500;
+    /* margin-bottom: 3%; */
+    /* margin-left: 40%; */
+    /* padding: 15px 15px 0px 0px; */
+
+}
+
+.name{
+    text-align: center;
+    padding-bottom: 1rem;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+.List{
+    /* overflow: auto; */
+    margin-left: 10%;
+    width:350%;
+    padding-top: 1%;
+    /* border-radius: 2%; */
+    /* position: fixed; */
+    /* z-index: 1040; */
+    background-color:white
+}
+.input{
+    border: 1px solid rgb(105, 96, 96); 
+    /* border-radius: 25px; */
+    width:40%;
+    margin-top: 2%;
+    /* margin-left: 28%; */
+}
+.icon{
+    margin-left: 2%;
+    font-size: 30px;
+}
+.names{
+    /* border: 2px solid rgb(105, 96, 96); */
+    /* padding-top: 100%; */
+    /* border-radius: 50px 50px; */
+    font-size: 18px;
+    font-weight: 500;
+    margin: 1%;
+    padding: 1%;
+    /* text-align: center; */
+    color: black;
+    box-shadow:rgb(105, 96, 96);
+    transition: all 0.2s ease;
+}
+.names:hover{
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.empList{
+    /* margin-left: 25%; */
+    margin-right: 25%;
+    /* margin-top: 30%; */
+    background-color: whitesmoke;
+    border-radius: 2% 2% 2% 2%;
+ 
+}
+.dvp{
+    border-radius: 2% 2% 2% 2%;
+    /* margin-left: 25%; */
+    margin-right: 25%;
+    /* margin-top: 2%; */
+    background-color: whitesmoke;
+}
+.svp{
+    border-radius: 2% 2% 2% 2%;
+    /* margin-left: 25%; */
+    margin-right: 25%;
+    /* margin-top: 2%; */
+    background-color: whitesmoke;
+  
+}
+.shnameicon{
+    font-size: 45px;
+}
+.toggle{
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.departments{
+    margin-left: 3%;
+    margin-top: 5%;
+
+}
+.department{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
